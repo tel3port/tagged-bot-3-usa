@@ -316,7 +316,7 @@ if __name__ == "__main__":
             time.sleep(randint(5, 20))
 
     def start_cycle():
-        print(f"starting cycle num")
+        print(f"STARTING BOT CYCLE")
         tagged_bot.login()
         time.sleep(randint(20, 50))
         tagged_actions_sequence()
@@ -324,6 +324,6 @@ if __name__ == "__main__":
         tagged_bot.clean_up()
         time.sleep(randint(15, 45))
 
-        print(f" cycle num done")
+        print(f"BOT CYCLE done")
 
     start_cycle()
