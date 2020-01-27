@@ -1,0 +1,4 @@
+pip
+selenium==3.141.0
+http-request-randomizer==1.2.3
+
