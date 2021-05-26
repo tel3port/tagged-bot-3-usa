@@ -276,11 +276,11 @@ if __name__ == "__main__":
     #     print(f'proxy address: {proxy.get_address()}')
     #     print(f'proxy country: {proxy.country}')
 
-    accounts = {"carn3lian@gmail.com": "WbJPTg2.C#NTya.",
-                "mnkimani05@gmail.com": "!E*bW3ZFKaiz3CT",
-                "testerslimited@gmail.com": "9UCQ4W88gx#E3pJ",
-                "marlinforce2018@gmail.com": "35Fa4YvZ4Hfn4!m",
-                "firefinchcreatives@gmail.com": "35Fa4YvZ4Hfn4!m"
+    accounts = {"DGD@gmail.com": "GD.C#NTya.",
+                "DGD@gmail.com": "!E*DGDF",
+                "DGFDF@gmail.com": "DG#E3pJ",
+                "DFGDG@gmail.com": "DFG!m",
+                "GDFGD@gmail.com": "GDGD!m"
                 }
 
     list_of_keys = list(accounts.keys())
